@@ -1,0 +1,18 @@
+id,category,courseName,credit
+1,Computer Science Core(Compulsory) ,Compiler Construction,3
+2,Computer Science Core(Compulsory) ,Comp. Organization & Assembly Language,3
+3,Computer Science Core(Compulsory) ,Digital Logic Design,3
+4,Computer Science Core(Compulsory) ,Design & Analysis of Algorithms,3
+5,Computer Science Core(Compulsory) ,Parallel & Distributed Computing,3
+6,Computer Science Core(Compulsory) ,Artificial Intelligence,1
+7,Computer Science Core(Compulsory) ,Theory of Automata,3
+8,Computer Science Core(Compulsory) ,Comp. Organization & Assembly Language Lab,1
+9,Computer Science Core(Compulsory) ,Digital Logic Design Lab,1
+10,Computer Science Core(Compulsory) ,Artificial Intelligence Lab,1
+11,Computer Science Core(Compulsory) ,Domain CS Core,3
+12,Computer Science Core(Compulsory) ,Domain CS Core Lab,1
+13,Computer Science Core(Compulsory) ,DLD Lab,1
+14,Computer Science Core(Compulsory) ,COAL,3
+15,Computer Science Core(Compulsory) ,COAL Lab,1
+16,Computer Science Core(Compulsory) ,DA of Algorithms,3
+17,Computer Science Core(Compulsory) ,Computer Architecture,3

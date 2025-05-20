@@ -1,0 +1,77 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+header h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+.card {
+    border-radius: 10px;
+}
+.result-box {
+    background-color: #f1f1f1;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 1rem;
+}
+footer {
+    font-size: 0.85rem;
+}
+.list-group-item {
+    font-size: 1.1rem;
+    background-color: #f8f9fa;
+    border: none;
+    margin-bottom: 5px;
+    padding: 15px;
+    border-left: 5px solid #007bff; /* Add a colored marker */
+    
+}
+h4.text-center.mb-4 {
+    font-size: 57px;
+}
+li.list-group-item {
+    font-size: 25px;
+}
+.list-group-item:hover {
+    background-color: #e9ecef;
+}
+.card-upload, .card-result {
+    height: 400px;
+    min-height: 350px; 
+    margin-bottom: 20px; 
+    border-radius: 15px; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.card-upload:hover, .card-result:hover {
+    transform: translateY(-5px); 
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15); 
+}
+
+.card-upload .card-body, .card-result .card-body {
+    padding: 30px; 
+}
+
+.card-title {
+    font-size: 1.5rem; 
+    font-weight: 600; 
+}
+
+button.w-100 {
+    font-size: 1.2rem; 
+    padding: 10px 0; 
+}
+
+.card-upload input[type="file"] {
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+.btn:hover {
+    background-color: red;
+}

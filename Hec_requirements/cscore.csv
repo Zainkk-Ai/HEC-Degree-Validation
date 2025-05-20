@@ -1,0 +1,29 @@
+id,category,courseName,credit
+1,Computing Core,Programming Fundamentals,3
+2,Computing Core,Object Oriented Programming,3
+3,Computing Core,Data Structures & Algorithms,3
+4,Computing Core,Discrete Structures,3
+5,Computing Core,Operating Systems,3
+6,Computing Core,Database Systems,3
+7,Computing Core,Software Engineering,3
+8,Computing Core,Computer Networks,3
+9,Computing Core,Information Security,3
+10,Computing Core,Final Year Project,6
+11,Computing Core,Programming Fundamentals Lab,1
+12,Computing Core,Object Oriented Programming Lab,1
+13,Computing Core,Data Structures & Algorithms Lab,1
+14,Computing Core,Operating Systems Lab,1
+15,Computing Core,Database Systems Lab,1
+16,Computing Core,Computer Networks Lab,1
+17,Computing Core,OOAD,3
+18,Computing Core,OOAD Lab,1
+19,Computing Core,Computer Architecture,3
+20,Computing Core,Intro to Computing,3
+21,Computing Core,Intro to Comp Lab,1
+22,Computing Core,Computer Programming,3
+23,Computing Core,Computer Prog Lab,1
+24,Computing Core,Data Structures,3
+25,Computing Core,Operating Sys Lab,1
+26,Computing Core,Info Sys Security,3
+27,Computing Core,Project - I,3
+28,Computing Core,Project - II,3
